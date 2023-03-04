@@ -1,4 +1,5 @@
 #include <main.h>
+#include <unistd.h>
 
 /**
  * _strcat - Concantenates two strings using at most
