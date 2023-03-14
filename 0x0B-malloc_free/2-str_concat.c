@@ -1,6 +1,8 @@
 #include "main.h"
 #include <stdlib.h>
 /*
+ * main - Entry point
+ *2-str_concat.c: Function that concantenates two strings
  * str_concat - get ends of input and add together for size
  * @s1: input one to concat
  * @s2: input two to concat
